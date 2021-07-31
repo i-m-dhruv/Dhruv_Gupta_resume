@@ -1,0 +1,72 @@
+{
+	"basics": {
+		"name": "Dhruv Gupta",
+		"label": "Student",
+		"picture": "https://raw.githubusercontent.com/i-m-dhruv/Dhruv_Image/main/My_image.jpg",
+		"email": "2020kuec2042@iiitkota.ac.in",
+		"emailPersonal": "guptadhruv5316@gmail.com",
+		"phone": "+918218510541",
+		"summary": "I am Dhruv Gupta from Indian Institute of Information Technology Kota(India),currently pursuing B.Tech in Electronics and Communication Engineering. I am an entusiastic Web Developer and have a keen interest in App development and Software Development.",
+		"location": {
+			"address": "Moradabad",
+            "postalCode": "244001",
+            "city": "Moradabad",
+			"countryCode": "India",
+			"region": "U.P."
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://twitter.com/_I_am_Dhruv_"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/i-m-dhruv"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/dhruv-gupta-075427201"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://www.instagram.com/shinigami_dhruv_gupta/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "07-12-2020",
+		"endDate": "----",
+		"gpa": "9.2",
+		"courses": [
+			"Electronics and Communication Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "JQuery", "Express", "NodeJS", "Python"]
+	}],
+    "languages": [
+        {
+            "languages": "English and Hindi",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton",
+		"Cricket",
+		"Football"
+            ]
+        }
+    ],
+	"references": []
+}

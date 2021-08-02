@@ -16,22 +16,22 @@
 		},
 		"profiles": [{
 				"network": "Twitter",
-				"username": "handle",
+				"username": "_I_am_Dhruv_",
 				"url": "https://twitter.com/_I_am_Dhruv_"
 			},
 			{
 				"network": "Github",
-				"username": "handle",
+				"username": "i-m-dhruv",
 				"url": "https://github.com/i-m-dhruv"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/dhruv-gupta-075427201"
+				"username": "i-m-dhruv",
+				"url": "www.linkedin.com/in/i-m-dhruv"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
+				"username": "shinigami_dhruv_gupta",
 				"url": "https://www.instagram.com/shinigami_dhruv_gupta/"
 			}
 		]
@@ -41,7 +41,6 @@
 		"area": "Engineering",
 		"studyType": "Bachelor of Technology",
 		"startDate": "07-12-2020",
-		"endDate": "----",
 		"gpa": "9.2",
 		"courses": [
 			"Electronics and Communication Engineering"
